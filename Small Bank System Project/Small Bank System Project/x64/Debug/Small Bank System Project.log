@@ -1,0 +1,10 @@
+﻿  Bank1 Course 7.cpp
+C:\Users\AS\Desktop\Projects\Bank1 Course 7\Bank1 Course 7\Bank1 Course 7.cpp(64,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AS\Desktop\Projects\Bank1 Course 7\Bank1 Course 7\Bank1 Course 7.cpp(933,21): warning C4101: 'AddMore': unreferenced local variable
+C:\Users\AS\Desktop\Projects\Bank1 Course 7\Bank1 Course 7\Bank1 Course 7.cpp(1195,13): warning C4129: 'B': unrecognized character escape sequence
+C:\Users\AS\Desktop\Projects\Bank1 Course 7\Bank1 Course 7\Bank1 Course 7.cpp(746,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\AS\Desktop\Projects\Bank1 Course 7\Bank1 Course 7\Bank1 Course 7.cpp(680,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\AS\Desktop\Projects\Bank1 Course 7\Bank1 Course 7\Bank1 Course 7.cpp(781,1): warning C4715: 'UpdateUserByUserName': not all control paths return a value
+C:\Users\AS\Desktop\Projects\Bank1 Course 7\Bank1 Course 7\Bank1 Course 7.cpp(709,1): warning C4715: 'DeleteUserByUserName': not all control paths return a value
+C:\Users\AS\Desktop\Projects\Bank1 Course 7\Bank1 Course 7\Bank1 Course 7.cpp(953,1): warning C4715: 'AddNewUser': not all control paths return a value
+  Bank1 Course 7.vcxproj -> C:\Users\AS\Desktop\Projects\Bank1 Course 7\x64\Debug\Bank1 Course 7.exe
