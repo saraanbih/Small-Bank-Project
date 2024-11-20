@@ -9,8 +9,14 @@ This project simulates a basic bank system with functional programming principle
 ## **Login System**  
 
 Before accessing the system's main menu, you need to log in using your **username** and **password**.  
-- **Validation**: You can only proceed if both the username and password are correct.  
-- If incorrect, the system will prompt you to re-enter your credentials.  
+- **Validation**:  
+  - The application checks if the entered username and password exist in the system.  
+  - If the credentials are valid, the main menu will be displayed.  
+  - If not, access is denied, and the user will be prompted to re-enter valid credentials.  
+
+- **Permission-Based Access**:  
+  - Users cannot access certain menus or perform specific actions unless they have the required permissions.  
+  - Each user’s access is restricted based on their assigned roles.  
 
 ---
 
@@ -57,7 +63,8 @@ The **Main Menu** contains **8 choices**:
 ## **Technical Details**  
 
 - Developed using **functional programming** principles.  
-- Ensures a clear separation between user authentication and system operations.  
+- Features robust user authentication and permission control.  
+- Ensures that unauthorized users cannot access restricted menus or actions.  
 
 ---
 
@@ -67,8 +74,3 @@ The **Main Menu** contains **8 choices**:
 2. Compile and run the program in your preferred environment.  
 
 ---
-
-## **Enjoy the Project!**  
-
-Thank you for exploring this Small Bank System Project! I hope you enjoy using it. 😊  
-
